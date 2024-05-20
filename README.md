@@ -6,6 +6,8 @@
  Started on `March 18th, 2024` and finished on `April 16th, 2024`. <br>
  In this project, a template was given to us and we only added code relative to Artificial Intelligence.
 ![png](./Images/Game.png)<br>
+![png](./Images/Battle.png)<br>
+
 
 ## Description
 
