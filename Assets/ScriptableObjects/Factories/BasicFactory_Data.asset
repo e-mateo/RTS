@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33438ee65fe702c40a35a4dc7d603393, type: 3}
+  m_Name: BasicFactory_Data
+  m_EditorClassIdentifier: 
+  TypeId: 0
+  Caption: Light Factory
+  Cost: 10
+  BuildDuration: 20
+  MaxHP: 5000
+  NbSpawnSlots: 10
+  SpawnRadius: 12
+  RadiusOffset: 4
+  AvailableUnits:
+  - {fileID: 1707494665243283662, guid: a37ed104a5fa3b94ea651e2746a3cf75, type: 3}
+  - {fileID: 1707494665243283662, guid: 0861cb65edcd3c94490e6ab80aa85b03, type: 3}
+  - {fileID: 4489616219243337951, guid: 8b2a20d9b63c1874ebfbd0845a6cd477, type: 3}
+  AvailableFactories:
+  - {fileID: 127182, guid: c4c916682eac65748a271387fc795cd5, type: 3}
+  - {fileID: 127182, guid: 79699270ed6dad648ad050a5e8010a5c, type: 3}
+  DeathFXPrefab: {fileID: 1494083766182838, guid: 151b49b11ab5924429acc76ead6435fa,
+    type: 3}
+  FactorySize: {x: 14, y: 14}

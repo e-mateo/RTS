@@ -1,0 +1,9 @@
+Canopus III - Low Poly Sci-Fi Desert Units Set 2
+
+Units and building models share the same uv-map coordinates.
+
+The included Photoshop workfiles contain layers indicating the uv-mapping, so new diffuse maps with different colours can be easily created.
+
+The models do not contain any animation tracks.
+
+

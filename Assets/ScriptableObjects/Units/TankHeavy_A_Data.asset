@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70c53fdf09515d64d9c0162b6d69219c, type: 3}
+  m_Name: TankHeavy_A_Data
+  m_EditorClassIdentifier: 
+  TypeId: 4
+  Caption: Heavy Tank A
+  Cost: 5
+  BuildDuration: 15
+  MaxHP: 200
+  DPS: 50
+  AttackFrequency: 2
+  AttackDistanceMax: 50
+  CaptureDistanceMax: 20
+  CanRepair: 0
+  RPS: 10
+  RepairFrequency: 1
+  RepairDistanceMax: 10
+  Speed: 3.5
+  AngularSpeed: 100
+  Acceleration: 8
+  IsFlying: 0
+  BulletPrefab: {fileID: 6953520636668906323, guid: 1061d596cce45944a8ae97b48af1ac15,
+    type: 3}
+  DeathFXPrefab: {fileID: 1685874166552172, guid: 2dc5347a44240ea4597cafb2d1d7c160,
+    type: 3}
